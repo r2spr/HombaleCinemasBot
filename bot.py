@@ -74,7 +74,7 @@ async def start(bot: Client, cmd: Message):
                 [
                     [
                         InlineKeyboardButton("Support Group", url="https://t.me/HombaleCinemasChat"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/HombaleCinemas")
+                        InlineKeyboardButton("Movies Channel", url="https://t.me/HombaleCinemas")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -357,7 +357,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Support Group", url="https://t.me/HombaleCinemasChat"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/HombaleCinemas")
+                        InlineKeyboardButton("Movies Channel", url="https://t.me/HombaleCinemas")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -415,7 +415,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Support Group", url="https://t.me/HombaleCinemasChat"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/HombaleCinemas")
+                        InlineKeyboardButton("Movies Channel", url="https://t.me/HombaleCinemas")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
