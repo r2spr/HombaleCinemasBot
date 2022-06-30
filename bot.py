@@ -120,7 +120,7 @@ async def main(bot: Client, message: Message):
                 return
 
         if message.from_user.id in Config.BANNED_USERS:
-            await message.reply_text("Sorry, You are banned!\n\nContact [Support Group](https://t.me/JoinOT)",
+            await message.reply_text("Sorry, You are banned!\n\nContact [Support Group](https://t.me/HombaleCinemasChat)",
                                      disable_web_page_preview=True)
             return
 
@@ -402,7 +402,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 return
             except Exception:
                 await cmd.message.edit(
-                    text="Something went Wrong. Contact my [Support Group](https://t.me/HombaleCinemas).",
+                    text="Something went Wrong. Contact my [Support Group](https://t.me/HombaleCinemasChat).",
                     parse_mode="markdown",
                     disable_web_page_preview=True
                 )
