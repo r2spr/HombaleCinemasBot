@@ -318,7 +318,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Source Code not Available",
+                        InlineKeyboardButton("Movies Channel",
                                              url="https://t.me/HombaleCinemas")
                     ],
                     [
@@ -337,7 +337,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Source Code not Available",
+                        InlineKeyboardButton("Movies Channel",
                                              url="https://t.me/HombaleCinemas")
                     ],
                     [
