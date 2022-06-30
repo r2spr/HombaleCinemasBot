@@ -22,17 +22,13 @@ class Config(object):
 This is Permanent Hombale Cinemas Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
-🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
+🤖 **My Name:** [HombaleCinemas Bot](https://t.me/{BOT_USERNAME})
 
-🤍 **𝙲𝚁𝙴𝙰𝚃𝙾𝚁:** [Team HombaleCinemas](https://t.me/HombaleCinemas)
+👥 **Support Group:** [HombaleCinemas Chat](https://t.me/HombaleCinemasChat)
 
-👥 **𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿:** [HombaleCinemas Chat](https://t.me/HombaleCinemasChat)
+📢 **Updates Channel:** [Team HombaleCinemas](https://t.me/HombaleCinemas)
 
 🧑🏻‍💻 **Developer:** @r2spr
-
-👥 **Support Group:** [Linux Repositories](https://t.me/HombaleCinemasChat)
-
-📢 **Updates Channel:** [Discovery Projects](https://t.me/HombaleCinemas)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @r2spr
